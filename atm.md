@@ -1,25 +1,33 @@
 
-Automated teller machines (ATMs) allow you to perform basic banking functions on-the-go without interacting with a bank teller or needing to visit a branch. (?) 
+Automated teller machines (ATMs) allow you to quickly perform basic banking functions on-the-go. quickly.  without interacting with a bank teller or needing to visit a branch. 
+
+ccess your account 24 hours a day at multiple locations. 
+
 
 Note that not every ATM performs every function, but they all let you withdraw cash.
 
-ATMs usually have the following physical components:
-Keypad
-Screen
-Card slot 
-Cash/check slot
-Receipt printer
-
-(picture?)
 ## Considerations
-Safety: Watch out for people stealing your info or moneys.
-Fees: You will likely get charged fees if you don’t use your own bank’s ATM, although some banks reimburse fees. 
+- Safety: Watch out for people stealing your info or moneys.
+- Fees: You will likely get charged fees if you don’t use your own bank’s ATM, although some banks reimburse fees. 
+- Limitations of cash withdrawal:
+
+## Overview
+
+{{< img-hd src="/atm.png" alt="ATM diagram" />}}
+
+ATMs usually have the following physical components:
+- Keypad:
+- Screen:
+- Card slot:
+- Cash/check slot:
+- Receipt printer:
+
 
 ## Requirements
 To use an ATM, you’ll need the following:
 
-- Banking card: The debit card linked to your bank account. You can also use a credit card, but it might cost you more money. See above. 
-- Personal identification number (PIN): To use the ATM, you’ll need a PIN to access the account linked to your debit card. If you aren’t sure what your PIN is, contact your bank using the number on the back of your debit card.
+- **Banking card**: The debit card linked to your bank account. You can also use a credit card, but it might cost you more money. See above. 
+- **Personal identification number (PIN)**: To use the ATM, you’ll need a PIN to access the account linked to your debit card. If you aren’t sure what your PIN is, contact your bank using the number on the back of your debit card.
 
 
 
@@ -31,7 +39,7 @@ To use an ATM, you’ll need the following:
         - Max 200 usually
     - Checking or savings
     - View account balance
-    - Deposit
+    - Deposit. Note that this option is only available if you're using an ATM of your own banking institution.
     - Transfer
 5. 
 
