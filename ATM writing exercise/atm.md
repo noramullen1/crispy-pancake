@@ -11,7 +11,6 @@ Automated teller machines (ATMs) allow you to perform basic banking functions, s
 
 ## Requirements
 To use an ATM, you’ll need the following:
-
 - **Banking card**: The debit card linked to your bank account. You can also use a credit card, but your bank will likely charge you a high interest rate. 
 - <a name="pin">**Personal identification number (PIN)**</a>: To use the ATM, you’ll need a PIN to access the account linked to your banking card. If you aren’t sure what your PIN is, contact your bank using the number on the back of your banking card.
 
