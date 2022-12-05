@@ -13,7 +13,7 @@ Note that not every ATM performs every function, but they all let you withdraw c
 
 ## Overview
 
-{{< img-hd src="/atm.png" alt="ATM diagram" />}}
+{{< img-hd src="atm.png" alt="ATM diagram" />}}
 
 ATMs usually have the following physical components:
 - Keypad:
