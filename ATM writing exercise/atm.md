@@ -16,9 +16,8 @@ To use an ATM, you’ll need the following:
 
 ## Overview
 
-{{< img-hd src="atm.png" alt="ATM diagram" />}}
+[atm diagram](./atm.png)
 
-<!--View the above image in the ATM writing exercise directory.-->
 
 ATMs usually have the following physical components:
 - **A. Screen**: Displays options and instructions for using the ATM. For newer ATMs, the screen might also be a touchscreen.
@@ -32,12 +31,12 @@ ATMs usually have the following physical components:
 1. Insert your banking card into the card slot. 
 2. Follow the on-screen prompts to choose a language.
 3. Enter your PIN using either the keypad or the screen, depending on the specific's ATM on-screen prompts. 
-4. Choose a function:
+4. Choose a transaction type:
     - **Withdraw**: Withdraw cash. 
         1. Choose whether you want to withdraw from your checking or savings account.
         2. Enter the amount you want to withdraw by following the ATM's on-screen prompts. 
     - **View account balance**: Display your account balance or balances on-screen. 
-        1. Choose whether you want to withdraw from your checking or savings account.
+        1. Choose whether you want to view your checking or savings account balance.
         2. Enter the amount you want to withdraw by following the ATM's on-screen prompts. 
     - **Deposit**: Deposit cash or checks into your account. Note that this option is typically only available if you're using an ATM of your own banking institution. 
         1. Choose the account you want to make a deposit to.
@@ -51,4 +50,5 @@ ATMs usually have the following physical components:
 7. If you withdrew cash, collect it from the cash slot. 
 7. Select whether you want a receipt on the screen. 
 8. If you you chose to receive a receipt, collect it from the receipt printer. 
+9. If a prompt to end your session appears on the screen, confirm that you're finished.
 
