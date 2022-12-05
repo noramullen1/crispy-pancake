@@ -18,6 +18,8 @@ To use an ATM, you’ll need the following:
 
 {{< img-hd src="atm.png" alt="ATM diagram" />}}
 
+<!--View the above image in the ATM writing exercise directory.-->
+
 ATMs usually have the following physical components:
 - **A. Screen**: Displays options and instructions for using the ATM. For newer ATMs, the screen might also be a touchscreen.
 - **B. Keypad**: Allows you to enter numbers and interact with the prompts displayed on the screen. For newer ATMs, you might use the screen for all or some of these functions instead.
