@@ -1,10 +1,8 @@
 
-Automated teller machines (ATMs) allow you to perform basic banking functions without visiting a bank branch. Using an ATM offers the following conveniences:
+Automated teller machines (ATMs) allow you to perform basic banking functions, such as withdrawals, transfers, and deposits, without visiting a bank branch. Using an ATM can offer the following conveniences:
 - Multiple locations, typically far more than bank branch locations
 - Open 24 hours a day
 - Faster than interacting with a teller
-
-Note that not every ATM performs every basic banking function described here, but they all let you withdraw cash.
 
 ## Considerations
 - **Safety**: Always be aware of your surroundings when using an ATM. Make sure that no one can see you enter your PIN (learn more about PINs [below](#pin)). 
