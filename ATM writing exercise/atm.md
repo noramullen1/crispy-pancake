@@ -16,8 +16,7 @@ To use an ATM, you’ll need the following:
 
 ## Overview
 
-[atm diagram](./atm.png)
-
+![ATM diagram](./atm.png)
 
 ATMs usually have the following physical components:
 - **A. Screen**: Displays options and instructions for using the ATM. For newer ATMs, the screen might also be a touchscreen.
