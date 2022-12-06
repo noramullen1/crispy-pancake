@@ -49,5 +49,4 @@ ATMs usually have the following physical components:
 7. If you withdrew cash, collect it from the cash slot. 
 7. Select whether you want a receipt on the screen. 
 8. If you you chose to receive a receipt, collect it from the receipt printer. 
-9. If a prompt to end your session appears on the screen, confirm that you're finished.
-
+9. Confirm that you've completed your session on the screen to end the transaction. 
