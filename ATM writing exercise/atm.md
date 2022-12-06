@@ -12,7 +12,7 @@ Automated teller machines (ATMs) allow you to perform basic banking functions, s
 ## Requirements
 To use an ATM, you’ll need the following:
 - **Banking card**: The debit card linked to your bank account. You can also use a credit card, but your bank will likely charge you a high interest rate. 
-- <a name="pin">**Personal identification number (PIN)**</a>: To use the ATM, you’ll need a PIN to access the account linked to your banking card. If you aren’t sure what your PIN is, contact your bank using the number on the back of your banking card.
+- <a name="pin">**Personal identification number (PIN)**</a>: The PIN to access the account linked to your banking card, usually a four-digit number. If you aren’t sure what your PIN is, contact your bank using the number on the back of your banking card.
 
 ## Overview
 
@@ -29,15 +29,14 @@ ATMs usually have the following physical components:
 
 1. Insert your banking card into the card slot. 
 2. Follow the on-screen prompts to choose a language.
-3. Enter your PIN using either the keypad or the screen, depending on the specific's ATM on-screen prompts. 
+3. Enter your PIN using either the keypad or the screen, depending on the specific ATM's on-screen prompts. 
 4. Choose a transaction type:
     - **Withdraw**: Withdraw cash. 
         1. Choose whether you want to withdraw from your checking or savings account.
         2. Enter the amount you want to withdraw by following the ATM's on-screen prompts. 
     - **View account balance**: Display your account balance or balances on-screen. 
         1. Choose whether you want to view your checking or savings account balance.
-        2. Enter the amount you want to withdraw by following the ATM's on-screen prompts. 
-    - **Deposit**: Deposit cash or checks into your account. Note that this option is typically only available if you're using an ATM of your own banking institution. 
+    - **Deposit**: Deposit cash or checks into your account. Note that this option is typically available only if you're using an ATM of your own banking institution. 
         1. Choose the account you want to make a deposit to.
         2. Enter the amount you're depositing on the screen.
         3. Insert your cash or checks into the deposit slot. 
@@ -49,4 +48,4 @@ ATMs usually have the following physical components:
 7. If you withdrew cash, collect it from the cash slot. 
 7. Select whether you want a receipt on the screen. 
 8. If you you chose to receive a receipt, collect it from the receipt printer. 
-9. Confirm that you've completed your session on the screen to end the transaction. 
+9. Confirm that you've completed your session by following on-screen prompt.
