@@ -1,0 +1,35 @@
+ pipeline:
+  projectIdentifier: Docs
+  orgIdentifier: default
+  identifier: Hello_World
+  name: Hello World
+  properties:
+    ci:
+      codebase: // The codebase section is needed if the stage is set to automatically clone the codebase. 
+        connectorRef: account.Github // The git connector holds your Docker credentials. It's needed to pull the image from Docker. 
+        repoName: keen-software/jhttp 
+        build: <+input>
+  stages:
+    - stage:
+        name: Print welcome message
+        identifier: welcome_message
+        type: CI
+        spec:
+          cloneCodebase: true
+          platform: // Platform properties are used to describe the target machine that is needed for the execution of the CI stage.
+            os: Linux 
+            arch: Amd64 
+          runtime:
+            type: Cloud // To run the build on infrastructure provided by Harness. 
+            spec: {}
+          execution:
+            steps:
+              - step:
+                  type: Run
+                  name: Welcome
+                  identifier: Welcome
+                  spec:
+                    connectorRef: my_dockerhub // (Optional) The Docker connectors hold your Docker credentials. It's needed to pull the image from Docker. 
+                    image: alpine // (Optional) If the image isn't provided, the step will run directly on the host machine, 
+                    shell: Sh
+                    command: Echo "Welcome to Harness CI"
